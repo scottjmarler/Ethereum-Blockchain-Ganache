@@ -120,21 +120,24 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 https://courses.bootcampspot.com/courses/1251/assignments/25283?module_item_id=512378
 
 
-## Working App Video and Screenshots
-
-* Address Balance and History 
+## Working Screenshots
 
 
 
 
 
-* Recipient's Address Balance and History
+![ganache_index0](https://user-images.githubusercontent.com/96508083/180113597-64439ba4-f288-4834-a163-d77a1ccaea4e.png)
+
+
+
+
+![ganache_tx](https://user-images.githubusercontent.com/96508083/180113315-c193f14c-3cad-4520-89cd-129ba970b223.png)
 
 
 
 
 
-* Transaction Details 
+![Screen Shot 2022-07-20 at 10 02 07 PM](https://user-images.githubusercontent.com/96508083/180113696-47fe3ca3-2e3e-41af-b044-baa921d68c91.png)
 
 
 
